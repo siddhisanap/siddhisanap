@@ -32,24 +32,11 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python)
-
-![java](https://skillicons.dev/icons?i=java)
-
-![cpp](https://skillicons.dev/icons?i=cpp)
-
-![git](https://skillicons.dev/icons?i=git)
-
-![github](https://skillicons.dev/icons?i=github)
-
-![linux](https://skillicons.dev/icons?i=linux)
-
-![vscode](https://skillicons.dev/icons?i=vscode)
-
-![aws](https://skillicons.dev/icons?i=aws)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,vscode,aws,docker,html,css,javascript&perline=6" />
+</p>
 ---
 
 # 🚀 Featured Project
