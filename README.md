@@ -101,3 +101,8 @@ https://www.instagram.com/siddhi._.sanap/
 ### ✨ "Every contribution is one step closer to becoming the engineer I aspire to be."
 
 </div>
+---
+
+# 📈 Contribution Activity
+
+[![Siddhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhisanap&theme=tokyo-night)](https://github.com/siddhisanap)
