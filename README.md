@@ -106,3 +106,11 @@ https://www.instagram.com/siddhi._.sanap/
 # 📈 Contribution Activity
 
 [![Siddhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhisanap&theme=tokyo-night)](https://github.com/siddhisanap)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddhisanap/siddhisanap/output/github-contribution-grid-snake.svg" />
+</p>
