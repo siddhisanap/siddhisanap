@@ -5,7 +5,9 @@
 ### AI/ML Enthusiast • Cloud Computing Learner • Open Source Contributor
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C84FE2&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Learning+Cloud+Computing;Open+Source+Contributor;Future+Software+Engineer+%F0%9F%9A%80" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhisanap&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
 </div>
 
 ---
